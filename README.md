@@ -5,7 +5,8 @@ This database is designed for managing flight bookings. It includes tables for a
 
 ## Usage
 - Use the provided SQL queries to interact with the database.
-- To find the cheapest flight for a specific route, use the second query in the SQL file.
+- To find the available / cheapest flight for a specific route.
+- Indicate the additional information for a specific route.
 - Update the database by inserting new data into the respective tables.
 
 ## Maintenance
